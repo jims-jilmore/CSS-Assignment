@@ -1,0 +1,39 @@
+body {
+    background-image: url(../../HTMLCSSPrework/assets/NorseGenericBackground.jpg);
+    background-position: inherit;
+}
+
+li {
+    border: darkred;
+    border-style: double;
+    border-width: 10px;
+    text-align: center;
+    color: gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+.yg{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#texttest {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    border-style: dotted;
+}
+
+p { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    text-align: center;
+}
